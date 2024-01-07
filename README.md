@@ -68,9 +68,27 @@ collections data.
       - HashMap
       - LinkHashMap                   
 
-
-
-#### Collections class 
+### Collections class
 A class for java.utils package contains methods to perform methods through java Collections, such as:
 * Collections.sort(ArrayList);
 
+
+
+### Collection Methods
+Methods for every interface extends for Collection:
+* add(object)
+* addAll(collection objects)
+* remove(object)
+* removeAll(collection)
+* retainAll(collection) -> except the passed object removed the rest\
+* clear()
+* isEmpty()
+* size()
+* contains(object) 
+* containsAll(collection objects)
+* toArray(collection)
+* get(index) -> available for linked collections
+* set(index) -> change the value of the element in the index giving
+
+> [!IMPORTANT]
+> If you want to sort a list, all of its elements must be the same type
