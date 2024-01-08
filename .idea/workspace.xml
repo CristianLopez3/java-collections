@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="135379c5-1bd2-43ec-8717-4900d850057c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cristian/list/LIST.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cristian/list/LIST.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/cristian/Desktop/code/java/LeetCodeProblems",
+    "last_opened_file_path": "/home/cristian/Desktop/code/java/collections",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,7 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1704557235789</updated>
       <workItem from="1704557237154" duration="11231000" />
-      <workItem from="1704672914773" duration="1895000" />
+      <workItem from="1704672914773" duration="2514000" />
+      <workItem from="1704681779027" duration="2229000" />
     </task>
     <servers />
   </component>
