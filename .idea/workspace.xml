@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="135379c5-1bd2-43ec-8717-4900d850057c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cristian/queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/cristian/set/MyLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cristian/queue/QUEUE.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cristian/set/SET.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cristian/set/SET.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cristian/queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cristian/queue/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     "Application.MyArrayList.executor": "Run",
     "Application.MyLinkedHashSet.executor": "Run",
     "Application.MyLinkedList.executor": "Run",
+    "Application.MyQueue.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -55,7 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyLinkedHashSet">
+  <component name="RunManager" selected="Application.MyQueue">
     <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cristian.list.MyArrayList" />
       <module name="collections" />
@@ -95,8 +95,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cristian.queue.MyQueue" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cristian.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyQueue" />
         <item itemvalue="Application.MyLinkedHashSet" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.MyArrayList" />
@@ -121,7 +135,7 @@
       <workItem from="1704557237154" duration="11231000" />
       <workItem from="1704672914773" duration="2514000" />
       <workItem from="1704681779027" duration="2277000" />
-      <workItem from="1704759205322" duration="1060000" />
+      <workItem from="1704759205322" duration="2111000" />
     </task>
     <servers />
   </component>
