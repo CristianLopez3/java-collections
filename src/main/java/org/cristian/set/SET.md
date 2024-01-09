@@ -4,6 +4,11 @@ Set interface have two classes, such as:
 * HashSet
 * LinkedHashSet
 
+## LinkedHashSet
+Have the HashTable + LinkedList concepts.
+* Duplicates aren't allowed.
+* Insertion order preserved
+
 ## HashSet
 
 You must use HashSet when you have random elements and don't need 

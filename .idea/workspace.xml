@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="135379c5-1bd2-43ec-8717-4900d850057c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cristian/queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/cristian/set/MyLinkedHashSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cristian/set/SET.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cristian/set/SET.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.MyArrayList.executor": "Run",
+    "Application.MyLinkedHashSet.executor": "Run",
     "Application.MyLinkedList.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,13 +55,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyLinkedList">
+  <component name="RunManager" selected="Application.MyLinkedHashSet">
     <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.cristian.list.MyArrayList" />
       <module name="collections" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.cristian.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLinkedHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cristian.set.MyLinkedHashSet" />
+      <module name="collections" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cristian.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedHashSet" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.MyArrayList" />
       </list>
@@ -102,7 +120,8 @@
       <updated>1704557235789</updated>
       <workItem from="1704557237154" duration="11231000" />
       <workItem from="1704672914773" duration="2514000" />
-      <workItem from="1704681779027" duration="2229000" />
+      <workItem from="1704681779027" duration="2277000" />
+      <workItem from="1704759205322" duration="1060000" />
     </task>
     <servers />
   </component>
